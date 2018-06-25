@@ -1,0 +1,24 @@
+body{
+    background-image: url(https://i2.wp.com/codigoespagueti.com/wp-content/uploads/2017/10/matrix-codigo.jpg?resize=1080%2C600&quality=100&ssl=1);
+    background-repeat: repeat;
+    background-position: center;
+    text-align: center;
+}
+h1{
+  color: rgba(66, 255, 0, 1);
+text-align: center;
+}
+	textarea{
+    width:30%; height: 60%;
+  }
+  h2{
+    text-align: center;
+    color: rgb(255, 252, 0);
+    font-weight: bold;
+    font-family: sans-serif;
+  }
+  #primerparrafo{
+    text-align: center;
+    color: rgb(250, 209, 255);
+    font-family: cursive;
+  }
